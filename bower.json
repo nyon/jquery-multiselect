@@ -1,0 +1,29 @@
+{
+  "name": "jquery-multiselect",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nyon/jquery-multiselect",
+  "authors": [
+    "antoniokaplan@gmail.com"
+  ],
+  "description": "jQuery multiselect based upon jquery.uix.multiselect",
+  "main": "js/jquery.uix.multiselect.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "jqueryui",
+    "multiselect"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8.1"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
